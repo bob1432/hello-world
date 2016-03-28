@@ -1,0 +1,8 @@
+    public List<String> previousPageParameters {get; set;}
+    public boolean isEditPrivacySettings {get; set;}
+    public String selectedAttachmentId {get; set;}
+    public Boolean isMassPrice {get; set;}
+
+    public String priceScenario {get;set;}
+    public boolean isEditScenario{get;set;}
+    public boolean isDataDirty{get;set;}
