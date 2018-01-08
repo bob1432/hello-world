@@ -6,3 +6,5 @@
     public String priceScenario {get;set;}
     public boolean isEditScenario{get;set;}
     public boolean isDataDirty{get;set;}
+    
+        public boolean isDataDirty{get;set;}
