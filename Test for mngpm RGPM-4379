@@ -1,0 +1,3 @@
+deployMnForceZipResource:
+      [zip] Building zip: c:\git_repos\master\rmi_cloud_apps\InternationalReferencePricing\deploy\staticresources\Arrows.resource
+   [delete] Deleting directory c:\git_repos\master\rmi_cloud_apps\InternationalReferencePricing\deploy\staticresources\Arrows
